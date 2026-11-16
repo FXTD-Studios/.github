@@ -27,7 +27,10 @@ FXTD Studios is a member of **NVIDIA Inception**, NVIDIA's program for startups 
 <table>
 <tr>
 <td width="140" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/FXTD-Studios/radiance/main/r_icon.png" alt="Radiance" width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-icon-light.png" alt="Radiance" width="96" />
+</picture>
 </td>
 <td valign="top">
 
@@ -44,7 +47,10 @@ License: GPL-3.0
 </tr>
 <tr>
 <td width="140" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/FXTD-Studios/RUDRA/main/ui/assets/rudra-mark.png" alt="RUDRA" width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/rudra-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/rudra-icon-light.png" alt="RUDRA" width="96" />
+</picture>
 </td>
 <td valign="top">
 
@@ -65,9 +71,40 @@ License: Apache-2.0
 
 ## Private Work
 
-Alongside our public repositories, we develop private projects and internal tools that are not published here. Two of them define where the studio is heading:
+Alongside our public repositories, we develop private projects and internal tools that are not published here. They define where the studio is heading:
 
-**Radiance Studio** is an AI-native VFX software, built from the ground up for artists who combine generative models with professional compositing and colour pipelines.
+<table>
+<tr>
+<td width="140" align="center" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-studio-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-studio-icon-light.png" alt="Radiance Studio" width="96" />
+</picture>
+</td>
+<td valign="top">
+
+### Radiance Studio
+
+AI-native VFX software, built from the ground up for artists who combine generative models with professional compositing and colour pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="140" align="center" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/jensus-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/jensus-icon-light.png" alt="Jensus" width="96" />
+</picture>
+</td>
+<td valign="top">
+
+### Jensus
+
+Jensus Code and Jensus Vision: a local EAI engine that runs on a single 16 GB GPU, keeps all code and images on-premises, and verifies everything it does.
+
+</td>
+</tr>
+</table>
 
 **RADIX** is our efficient intelligence (EAI) technology, designed to deliver capable AI models that run fast and lean on everyday hardware.
 

@@ -32,7 +32,10 @@ AI models produce 8-bit images. Studios deliver 32-bit, scene-linear, colour-man
 <table>
 <tr>
 <td width="140" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/FXTD-Studios/radiance/main/r_icon.png" alt="Radiance" width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-icon-light.png" alt="Radiance" width="96" />
+</picture>
 </td>
 <td valign="top">
 
@@ -48,7 +51,10 @@ More than 140 GPU-accelerated nodes that bring 32-bit HDR, ACES, OpenColorIO, LU
 </tr>
 <tr>
 <td width="140" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/FXTD-Studios/RUDRA/main/ui/assets/rudra-mark.png" alt="RUDRA" width="96" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/rudra-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/rudra-icon-light.png" alt="RUDRA" width="96" />
+</picture>
 </td>
 <td valign="top">
 
@@ -68,9 +74,40 @@ The Radiance Universal Dynamic Range Adapter rebuilds blown highlights and crush
 
 ## What's Next
 
-Our public repositories are only part of our work. Two private platforms define where FXTD Studios is heading:
+Our public repositories are only part of our work. Private platforms define where FXTD Studios is heading:
 
-**Radiance Studio** is AI-native VFX software, designed from the ground up for artists who combine generative models with professional compositing and colour.
+<table>
+<tr>
+<td width="140" align="center" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-studio-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/radiance-studio-icon-light.png" alt="Radiance Studio" width="96" />
+</picture>
+</td>
+<td valign="top">
+
+### Radiance Studio
+
+**AI-native VFX software.** Designed from the ground up for artists who combine generative models with professional compositing and colour.
+
+</td>
+</tr>
+<tr>
+<td width="140" align="center" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/jensus-icon-dark.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/jensus-icon-light.png" alt="Jensus" width="96" />
+</picture>
+</td>
+<td valign="top">
+
+### Jensus
+
+**Jensus Code and Jensus Vision.** A local EAI engine that runs on a single 16 GB GPU, keeps all code and images on-premises, and verifies everything it does.
+
+</td>
+</tr>
+</table>
 
 **RADIX** is our efficient intelligence (EAI) technology, built to deliver capable AI that runs fast and lean.
 
