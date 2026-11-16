@@ -109,7 +109,7 @@ Our public repositories are only part of our work. Private platforms define wher
 </tr>
 </table>
 
-**RADIX** is our efficient intelligence (EAI) technology, built to deliver capable AI that runs fast and lean.
+**Jensus** is our efficient intelligence (EAI) technology, built to deliver capable AI that runs fast and lean.
 
 Interested in early access or partnership? [Get in touch](mailto:contact@fxtdstudios.com).
 
