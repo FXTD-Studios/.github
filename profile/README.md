@@ -101,15 +101,15 @@ Our public repositories are only part of our work. Private platforms define wher
 </td>
 <td valign="top">
 
-### Jensus
+### Jenyx  
 
-**Jensus Code and Jensus Vision.** A local EAI engine that runs on a single 16 GB GPU, keeps all code and images on-premises, and verifies everything it does.
+**Jenyx Code and Jenyx Vision.** A local EAI engine that runs on a single 16 GB GPU, keeps all code and images on-premises, and verifies everything it does.
 
 </td>
 </tr>
 </table>
 
-**Jensus** is our efficient intelligence (EAI) technology, built to deliver capable AI that runs fast and lean.
+**Jenyx** is our efficient intelligence (EAI) technology, built to deliver capable AI that runs fast and lean.
 
 Interested in early access or partnership? [Get in touch](mailto:contact@fxtdstudios.com).
 
