@@ -1,28 +1,33 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/333458250?s=280&v=4" alt="FXTD Studios" width="140" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/fxtd-logo-white.png" />
+  <img src="https://raw.githubusercontent.com/FXTD-Studios/.github/main/profile/assets/fxtd-logo-dark.png" alt="FXTD Studios" width="120" />
+</picture>
 
 # FXTD Studios
 
-**Colour science, HDR and VFX tools for generative and real-world imagery.**
+### Cinema-grade colour science for the AI era.
 
-[Website](https://fxtdstudios.com) · [LinkedIn](https://linkedin.com/company/fxtdstudios) · [Hugging Face](https://huggingface.co/fxtdstudios) · [contact@fxtdstudios.com](mailto:contact@fxtdstudios.com)
+We turn generative imagery into production-ready pixels.
+
+[Website](https://fxtdstudios.com) · [LinkedIn](https://linkedin.com/company/fxtdstudios) · [Hugging Face](https://huggingface.co/fxtdstudios) · [Contact](mailto:contact@fxtdstudios.com)
+
+<sub>Member of NVIDIA Inception</sub>
 
 </div>
 
 ---
 
-## About
+## Who We Are
 
-FXTD Studios is a research and development studio based in Cairo, Egypt. We build tools that bring film-grade image handling to AI pipelines: scene-linear HDR, ACES and OpenColorIO colour management, EXR delivery, and review tools that show honestly what your pixels are doing.
+FXTD Studios is a research and development company based in Cairo, Egypt, building the imaging infrastructure that connects artificial intelligence to professional film and VFX pipelines.
 
-Most generative and consumer imagery arrives as 8-bit SDR, while professional pipelines expect 32-bit float, scene-linear, colour-managed frames. Our work closes that gap.
-
-FXTD Studios is a member of **NVIDIA Inception**, NVIDIA's program for startups building with AI.
+AI models produce 8-bit images. Studios deliver 32-bit, scene-linear, colour-managed frames. **We close that gap**, with HDR reconstruction, ACES and OpenColorIO colour management, EXR delivery and review tools trusted to show exactly what every pixel is doing.
 
 ---
 
-## Open Source Projects
+## Open Source
 
 <table>
 <tr>
@@ -36,12 +41,11 @@ FXTD Studios is a member of **NVIDIA Inception**, NVIDIA's program for startups 
 
 ### [Radiance](https://github.com/FXTD-Studios/radiance)
 
-HDR, colour management, VFX tools and image review inside ComfyUI.
+**The professional colour pipeline for ComfyUI.**
 
-A suite of 140+ ComfyUI custom nodes for 32-bit generation with real colour science, GPU accelerated. It covers HDR VAE encode and decode, SDR to HDR conversion, ACES and OpenColorIO, LUTs and CDL, a Viewer with scopes and playback, VFX passes and relighting, and EXR delivery for Nuke and DaVinci Resolve.
+More than 140 GPU-accelerated nodes that bring 32-bit HDR, ACES, OpenColorIO, LUTs, scopes, relighting and EXR delivery into ComfyUI, ready to hand off to Nuke and DaVinci Resolve. Installed thousands of times through the Comfy Registry.
 
-Install from ComfyUI Manager by searching for **Radiance**.
-License: GPL-3.0
+[Get Radiance](https://github.com/FXTD-Studios/radiance) · GPL-3.0
 
 </td>
 </tr>
@@ -56,12 +60,11 @@ License: GPL-3.0
 
 ### [RUDRA](https://github.com/FXTD-Studios/RUDRA)
 
-Radiance Universal Dynamic Range Adapter.
+**SDR in. HDR out. Nothing hidden.**
 
-Turns 8-bit SDR images and video into scene-linear HDR, and shows exactly where it changed the picture. It ships as a browser-based Studio, a delivery CLI for HDR10, HLG and ProRes masters, and a native desktop app now in beta. RUDRA also powers the SDR to HDR nodes in Radiance.
+The Radiance Universal Dynamic Range Adapter rebuilds blown highlights and crushed shadows in any 8-bit image or video, from cameras, archives or generative models, and shows exactly where it changed the picture. Delivered as a browser Studio, a mastering CLI for HDR10, HLG and ProRes, and a native desktop app in beta.
 
-Models are available on [Hugging Face](https://huggingface.co/fxtdstudios/RUDRA).
-License: Apache-2.0
+[Get RUDRA](https://github.com/FXTD-Studios/RUDRA) · [Models](https://huggingface.co/fxtdstudios/RUDRA) · Apache-2.0
 
 </td>
 </tr>
@@ -69,9 +72,9 @@ License: Apache-2.0
 
 ---
 
-## Private Work
+## What's Next
 
-Alongside our public repositories, we develop private projects and internal tools that are not published here. They define where the studio is heading:
+Our public repositories are only part of our work. Private platforms define where FXTD Studios is heading:
 
 <table>
 <tr>
@@ -85,7 +88,7 @@ Alongside our public repositories, we develop private projects and internal tool
 
 ### Radiance Studio
 
-AI-native VFX software, built from the ground up for artists who combine generative models with professional compositing and colour pipelines.
+**AI-native VFX software.** Designed from the ground up for artists who combine generative models with professional compositing and colour.
 
 </td>
 </tr>
@@ -98,27 +101,27 @@ AI-native VFX software, built from the ground up for artists who combine generat
 </td>
 <td valign="top">
 
-### Jensus
+### Jenyx  
 
-Jensus Code and Jensus Vision: a local EAI engine that runs on a single 16 GB GPU, keeps all code and images on-premises, and verifies everything it does.
+**Jenyx Code and Jenyx Vision.** A local EAI engine that runs on a single 16 GB GPU, keeps all code and images on-premises, and verifies everything it does.
 
 </td>
 </tr>
 </table>
 
-**RADIX** is our efficient intelligence (EAI) technology, designed to deliver capable AI models that run fast and lean on everyday hardware.
+**Jenyx** is our efficient intelligence (EAI) technology, built to deliver capable AI that runs fast and lean.
 
-For collaboration or early access enquiries, contact us at [contact@fxtdstudios.com](mailto:contact@fxtdstudios.com).
+Interested in early access or partnership? [Get in touch](mailto:contact@fxtdstudios.com).
 
 ---
 
-## Our Principles
+## Why FXTD
 
-**Correct colour, end to end.** Every tool knows the space it reads, works in and writes, and says so.
+**Colour you can trust.** Every tool knows the space it reads, works in and writes, and tells you.
 
-**Honest measurement.** We publish results as they are, with the limitations beside them.
+**Results you can verify.** We publish our numbers with their limitations, not instead of them.
 
-**Built for artists.** Tools for colourists, compositors and VFX artists that fit into Nuke, DaVinci Resolve and ComfyUI.
+**Built for the people who finish the shot.** Colourists, compositors and VFX artists, working in Nuke, DaVinci Resolve and ComfyUI.
 
 ---
 
@@ -128,14 +131,18 @@ Python · PyTorch · C++20 · Qt 6 · CUDA · ONNX Runtime · OpenColorIO · ACE
 
 ---
 
-## Get Involved
+## Work With Us
 
-Report bugs and request features through each repository's issue tracker. Before opening a pull request, please read the [contributing guide](https://github.com/FXTD-Studios/radiance/blob/main/CONTRIBUTING.md). For commercial licensing, partnerships or studio work, write to [contact@fxtdstudios.com](mailto:contact@fxtdstudios.com).
+**Partnerships and licensing:** [contact@fxtdstudios.com](mailto:contact@fxtdstudios.com)
+
+**Bugs and feature requests:** open an issue in the relevant repository
+
+**Contributions:** read the [contributing guide](https://github.com/FXTD-Studios/radiance/blob/main/CONTRIBUTING.md) before opening a pull request
 
 ---
 
 <div align="center">
 
-[fxtdstudios.com](https://fxtdstudios.com) · Cairo, Egypt
+**FXTD Studios** · Cairo, Egypt · [fxtdstudios.com](https://fxtdstudios.com)
 
 </div>
